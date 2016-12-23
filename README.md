@@ -1,14 +1,10 @@
-Steve's No-Good-Very-Bad Jekyll Theme
-=====================================
+svmiller.com
+============
 
-This is my custom Jekyll theme, which is basically [Joel Glovier](http://joelglovier.com/)'s `jekyll-new` theme smashed with [Alex King](http://www.alexking.org)'s [Favepersonal](https://crowdfavorite.com/favepersonal/) theme for Wordpress. I used Favepersonal for my Wordpress site before abandoning it. You can see my site at [svmiller.github.io](http://svmiller.github.io).
+This is my personal/academic website as hosted on Github at [svmiller.com](http://svmiller.com) and powered by Jekyll.
 
-Much of what is contained in here is derivative of those two works. That said, do observe the `embedpdf.html` and `image.html` files in the `_includes` directory. `embedpdf.html` uses Google Docs to allow for embedding of PDF files hosted on Dropbox. `image.html` provides fancier images than what is standard for Markdown. An example use of `embedpdf.html` can be observed in the `cv.md` file. An example use of `image.html` can be observed in the `about.md` file.
+I discuss the reasons for the move [here](http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/).
 
-I use data-driven navigation, which you can see in the `menu.yml` file in the `_data` directory. There's also a `nav.html` file in the `_includes` directory with modified `header.html`.
+This repository will also serve as my most up-to-date Jekyll theme as well. I keep a minimal version of [my no-good-very-bad template](https://github.com/svmiller/steve-ngvb-jekyll-template) on a Github repository. It's basically a Frankenstein monster of [Joel Glovier](http://joelglovier.com/)'s `jekyll-new` theme and [Alex King](http://www.alexking.org)'s [Favepersonal](https://crowdfavorite.com/favepersonal/) Wordpress theme.
 
-Mobile support is clearly functional, though some white-spacing could be improved. Feel free to offer improvements if you'd like.
-
-`css` and `_sass` directories also functional, if a bit cluttered. Do observe new colors I created for `$clemson-orange` and `$clemson-purple` in `css/main.scss`.
-
-Feel free to contact me at svmille@clemson.edu. Send along some cheers too if you find it useful.
+I'm not sure this will help with search engine optimization, but, here goes: Steven V. Miller is an assistant professor and political scientist at Clemson University with research interests in international conflict and political behavior. His research has been published in journals like *Comparative Political Studies*, *Journal of Conflict Resolution*, *Journal of Peace Research*, *Conflict Management and Peace Science*, and *Social Science Quarterly*. Contents on this website typically involve professional development for students, R, LaTeX, and, occasionally, political science topics.

@@ -1,2 +1,14 @@
 _site
 .sass-cache
+/dross
+HIDEME
+/drafts
+
+# ignore temp files w/ trailing ~
+*~
+
+# ignore hidden files
+.*
+
+# don't ignore the .gitignore file
+!.gitignore
