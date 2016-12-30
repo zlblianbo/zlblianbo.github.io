@@ -1,11 +1,14 @@
-- title: "About"
-  href: "/about/"
+- title: "Home"
+  href: "/index"
 
-- title: "Blog"
-  href: "http://www.cnblogs.com/zhanglianbo/"
+- title: "研究生招生"
+  href: "/for students"
 
-- title: "Weibo"
-  href: "http://weibo.com/zlblianbo?is_all=1"
+- title: "工作管理"
+  href: "/work"
+
+- title: "Code&Dataset"
+  href: "/CodeAndData"
 
 - title: "CV"
   href: "/Lianbo_CV.pdf"
